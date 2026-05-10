@@ -5,6 +5,10 @@ A professional, modular photo organizer. Features live image previews, automated
 
 Welcome to the photo organization app!
 
+## Why I built this
+I work with multimedia and often deal with folders full of photos, exports and different image formats.
+This project was created as a learning exercise to understand Python, file management and desktop UI development, while building something useful for a real creative workflow.
+
 ## 🏗️ Project Architecture
 This application utilizes Object-Oriented Programming and is split into modular files:
 - `main.py`: The entry point. Boots up the UI.
